@@ -25,6 +25,7 @@ modman clone https://github.com/mundipagg/magento
 
 ## Magento Marketplace
 
+# [Freelance magento developer](https://www.phpfreelanceprogrammer.com/magento-programmer.html)
 
 # How can I contribute?
 Please, refer to [CONTRIBUTING](CONTRIBUTING.md)
